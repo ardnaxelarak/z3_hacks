@@ -14,7 +14,7 @@ Remove Flashing and Add Quickswap to Romhacks of A Link to the Past
 - In the appropriate romhack's directory, execute `./build.sh [spritefile.zspr]` to generate a patched file with reduced flashing¹ and quickswap, and your custom sprite injected. To leave the default sprite, you may omit the sprite argument to `build.sh`
 - Your patched rom is now available in that directory at `working.sfc`.
 
-¹ Removed flashing consists of the ligthning from the initial rain state, the lightning attacks from Vitreous and Agahnim, and the ether medallion.
+¹ Removed flashing consists of the lightning from the initial rain state, the lightning attacks from Vitreous and Agahnim, and the ether medallion.
 If you experience photosensitivity, please be careful as everyone's experiences are different and there might still be remaining triggers for you.
 
 Please let me know if you encounter any issues!
