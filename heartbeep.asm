@@ -1,0 +1,2 @@
+org $0DDC9B
+LDA #$40
